@@ -20,4 +20,5 @@ setup(name='neoscrypt',
       ext_modules=[neoscrypt_module],
       zip_safe=True,
       long_description=long_description,
+      long_description_content_type='text/markdown'
       )

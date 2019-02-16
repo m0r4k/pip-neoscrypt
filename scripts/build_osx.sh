@@ -8,7 +8,7 @@ CFLAGS="-Wall -O2 -fomit-frame-pointer -fno-stack-protector"
 LD="gcc"
 LDFLAGS="-Wl"
 
-
+cd ../neoscrypt
 
 echo "$CC $CFLAGS $DEFINES -c neoscrypt.c"
 `$CC $CFLAGS $DEFINES -c neoscrypt.c`

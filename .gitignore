@@ -4,6 +4,8 @@ neoscrypt.egg-info/
 
 
 .idea/
-*.o
-*.dll
-*.dylib
+
+#*.o
+#*.dll
+#*.dylib
+#neoscrypt/neoscrypt

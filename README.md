@@ -30,7 +30,7 @@ bash:~/: sudo python3.6 -m pip install git+https://github.com/m0r4k/neoscrypt_mo
   
 or  
   
-bash:~/: git clone git+https://github.com/m0r4k/neoscrypt_module.git
-bash:~/: cd neoscrypt_module
-bash:~/neoscrpyt_module/: sudo python3.6 setup.py install 
+bash:~/: git clone git+https://github.com/m0r4k/pip-neoscrypt.git
+bash:~/: cd pip-neoscrypt
+bash:~/pip-neoscrypt/: sudo python3.6 setup.py install 
 ```
